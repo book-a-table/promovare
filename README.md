@@ -2,23 +2,15 @@
 
 - Social media (Facebook, WhatApp, Reddit)
 
-![Q1](fb.PNG)
+![Facebook](fb.PNG)
 <br/>
-![Q1](whatapp.PNG)
+![WhatApp](whatapp.PNG)
 <br/>
-![Q1](reddit.PNG)
-
-- Social media (Facebook, WhatApp, Reddit)
-
-![Q1](fb.PNG)
-<br/>
-![Q1](whatapp.PNG)
-<br/>
-![Q1](reddit.PNG)
+![Reddit](reddit.PNG)
 
 - Traditional (Afis si Comunicare directa)
 
-![Q1](afis.PNG)
+![Afis](afis.PNG)
 <br/>
 
 -----------------------------------
