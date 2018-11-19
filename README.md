@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+### Promovare
 
-You can use the [editor on GitHub](https://github.com/book-a-table/promovare/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- Social media (Facebook, WhatApp, Reddit)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Q1](fb.PNG)
+<br/>
+![Q1](whatapp.PNG)
+<br/>
+![Q1](reddit.PNG)
 
-### Markdown
+- Social media (Facebook, WhatApp, Reddit)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Q1](fb.PNG)
+<br/>
+![Q1](whatapp.PNG)
+<br/>
+![Q1](reddit.PNG)
 
-```markdown
-Syntax highlighted code block
+- Traditional (Afis si Comunicare directa)
 
-# Header 1
-## Header 2
-### Header 3
+![Q1](afis.PNG)
+<br/>
 
-- Bulleted
-- List
+-----------------------------------
+- Promovarea pe retelele de socializare s-a facut prin share a link-ului. Promovarea traditionala a constat in impartirea unor afise sau prin comunicarea directa cu utilizatorul.
+- Retelele de socializare au adus un numar mai mare de utilizatori decat caile traditionale in schimb caile tradionale au adus feedback productiv in timp real. 
 
-1. Numbered
-2. List
+-----------------------------------
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/book-a-table/promovare/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### [Pagina de prezentare](https://book-a-table.github.io/fiki/)
